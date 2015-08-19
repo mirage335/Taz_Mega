@@ -10,6 +10,7 @@ Intended to simultaneously operate multiple at least milling, laser, extrusion (
 
 #Tweaks
 Z-Axis motor mounting plate edges protrude into the frame extrusions, and must be ground slightly to compensate.
+Spacer blocks may not leave adequate clearance for the most ideal screw locations. Solvable with moderate grinding.
 
 #Extras
 Tap Set - http://openbuildspartstore.com/tap-set/
