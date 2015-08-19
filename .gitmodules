@@ -1,0 +1,3 @@
+[submodule "OpenActuators"]
+	path = OpenActuators
+	url = git@github.com:mirage335/OpenActuators.git
