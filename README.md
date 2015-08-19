@@ -8,6 +8,15 @@ Large-scale advanced multi-tool desktop factory derived from LulzBot Taz. Succes
 
 Intended to simultaneously operate multiple at least milling, laser, extrusion (FDM 3D Printing), and inkjet (powder 3D printing, 2D coloring) tools.
 
+#Tweaks
+Z-Axis motor mounting plate edges protrude into the frame extrusions, and must be ground slightly to compensate.
+
+#Extras
+Tap Set - http://openbuildspartstore.com/tap-set/
+
+Cube Corner Connector - http://openbuildspartstore.com/cube-corner-connector/
+Black Angle Corner Connector - http://openbuildspartstore.com/black-angle-corner-connector/
+
 #Copyright Extensions
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 
