@@ -1,4 +1,4 @@
-Copyright (C) 2013 mirage335
+Copyright (C) 2015 mirage335
 See the end of the file for license conditions.
 See license.txt for Taz_Mega license conditions.
 
@@ -6,14 +6,12 @@ mirage335.member.hacdc.org
 
 Large-scale advanced multi-tool desktop factory derived from LulzBot Taz. Successor to FlexReplicator.
 
-Intended to simultaneously operate multiple milling, laser, extrusion (FDM 3D Printing), and inkjet (powder 3D printing, 2D coloring) tools.
+Intended to simultaneously operate multiple at least milling, laser, extrusion (FDM 3D Printing), and inkjet (powder 3D printing, 2D coloring) tools.
 
-SolidWorks files will eventually be replaced with FreeCAD, pending initial construction. See render.png for assembly overview, or download free eDrawings viewer for further investigation.
-
-_Copyright Extensions_
+#Copyright Extensions
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 
-_Copyright_
+#Copyright
 This file is part of Taz_Mega.
 
 Taz_Mega is free software: you can redistribute it and/or modify

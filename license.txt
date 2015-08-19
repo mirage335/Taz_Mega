@@ -1,5 +1,5 @@
 Taz_Mega
-Copyright (C) 2013  mirage335
+Copyright (C) 2015  mirage335
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
