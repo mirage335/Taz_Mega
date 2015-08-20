@@ -10,8 +10,12 @@ Intended to simultaneously operate multiple at least milling, laser, extrusion (
 
 #Tweaks
 Z-Axis motor mounting plate edges protrude into the frame extrusions, and must be ground slightly to compensate.
+
 Spacer blocks may not leave adequate clearance for the most ideal gantry plate screw locations. Solvable with moderate grinding.
+
 Lock nuts used in wheel assemblies may conflict with some metal plates. Moderate grinding, or use of jam nuts with threadlocker, are solutions.
+
+Carrier gantry plates may not have usable mounting holes. Simple custom plates may be needed.
 
 #Extras
 Tap Set - http://openbuildspartstore.com/tap-set/
