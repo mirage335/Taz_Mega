@@ -15,14 +15,6 @@ Spacer blocks may not leave adequate clearance for the most ideal gantry plate s
 
 Lock nuts used in wheel assemblies may conflict with some metal plates. Moderate grinding, or use of jam nuts with threadlocker, are solutions.
 
-Carrier gantry plates may not have usable mounting holes. Simple custom plates may be needed.
-
-#Extras
-Tap Set - http://openbuildspartstore.com/tap-set/
-
-Cube Corner Connector - http://openbuildspartstore.com/cube-corner-connector/
-Black Angle Corner Connector - http://openbuildspartstore.com/black-angle-corner-connector/
-
 #Copyright Extensions
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 
