@@ -8,6 +8,12 @@ Large-scale advanced multi-tool desktop factory derived from LulzBot Taz. Succes
 
 Intended to simultaneously operate multiple at least milling, laser, extrusion (FDM 3D Printing), and inkjet (powder 3D printing, 2D coloring) tools.
 
+Total cost is estimated at $1,574.45. Normal Taz bulk production costs using this setup would be closer to $1k/unit, probable savings as follows.
+
+Custom Plates - $200/unit.
+Y-axis deduplication - $200/unit.
+X/Y axis length reduction - $150/unit
+
 #Tweaks
 Z-Axis motor mounting plate edges protrude into the frame extrusions, and must be ground slightly to compensate.
 
