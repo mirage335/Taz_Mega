@@ -21,6 +21,17 @@ Spacer blocks may not leave adequate clearance for the most ideal gantry plate s
 
 Lock nuts used in wheel assemblies may conflict with some metal plates. Moderate grinding, or use of jam nuts with threadlocker, are solutions.
 
+Y-Axis threaded rod may not be matched to adequately tight tolerances (<<0.3%). Tightly spring-loading all couplings to one of the two threaded rods may alleviate binding at minimal loss of performance. For light-duty work, only one threaded rod is actually necessary.
+
+Do not overtighten joints between gantry plates and aluminum extrusions, as this can significantly overload of the wheel assemblies.
+
+Many more metric screws and Tee Nuts may be required. In particular, some low-profile M5x12mm screws are required to join the Y-axis assembly to the frame. These can be made by grinding down M5x15mm screws from Open Builds.
+
+Right angle brackets from Open Builds may not be suitable for joining the Z-axis extrusions to the frame. Corner cubes are more than adequate.
+
+#Electronics
+Duet electronics with PatchRap panel STRONGLY recommended. Heatsinkng the motor drivers would also be wise, as maximum rated current should be used.
+
 #Copyright Extensions
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 
